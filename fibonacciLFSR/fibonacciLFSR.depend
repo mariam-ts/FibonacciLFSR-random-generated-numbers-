@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587859056 source:c:\users\asus\desktop\new\fibonaccilfsr\main.c
+	<stdint.h>
+	<stdio.h>
+
